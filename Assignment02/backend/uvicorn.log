@@ -289,3 +289,7 @@ INFO:     127.0.0.1:64222 - "GET /api/status HTTP/1.1" 200 OK
 INFO:     127.0.0.1:65452 - "GET /api/status HTTP/1.1" 200 OK
 INFO:     127.0.0.1:52885 - "GET /api/status HTTP/1.1" 200 OK
 INFO:     127.0.0.1:50773 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57276 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60780 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63740 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51159 - "GET /api/status HTTP/1.1" 200 OK
