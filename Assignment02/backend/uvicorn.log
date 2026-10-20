@@ -1,0 +1,291 @@
+INFO:     Started server process [8924]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50063 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52177 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55249 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55251 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61933 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64886 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62628 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52190 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60477 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56139 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52822 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57005 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60844 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60605 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54687 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64310 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54029 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64716 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56872 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51865 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55417 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56961 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51786 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61885 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61718 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50859 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57604 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50063 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64057 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61554 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57649 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61716 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61649 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60219 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64044 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54509 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57767 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53181 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65526 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57659 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64260 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64574 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59180 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52572 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62294 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49954 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59295 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62608 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60753 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61490 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55721 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62853 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62855 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62857 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62859 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51892 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63317 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64510 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53406 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59720 - "POST /api/run HTTP/1.1" 200 OK
+2026-10-20 20:42:45,244 [clef] CACHE HIT (7.48 ms)
+INFO:     127.0.0.1:49248 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58470 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:46,245 [clef] CACHE HIT (0.37 ms)
+INFO:     127.0.0.1:54322 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:47,246 [clef] CACHE HIT (1.06 ms)
+INFO:     127.0.0.1:56707 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51646 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:48,247 [clef] CACHE HIT (0.79 ms)
+INFO:     127.0.0.1:49684 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:49,250 [clef] CACHE HIT (0.85 ms)
+INFO:     127.0.0.1:52742 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:50,251 [clef] CACHE HIT (0.29 ms)
+INFO:     127.0.0.1:55572 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52935 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:51,253 [clef] CACHE HIT (1.02 ms)
+INFO:     127.0.0.1:60394 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:52,254 [clef] CACHE HIT (0.38 ms)
+INFO:     127.0.0.1:50299 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61330 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:53,255 [clef] CACHE HIT (0.89 ms)
+INFO:     127.0.0.1:56810 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:54,258 [clef] CACHE HIT (0.86 ms)
+INFO:     127.0.0.1:53483 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50453 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:55,258 [clef] CACHE HIT (0.30 ms)
+INFO:     127.0.0.1:56230 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:56,260 [clef] CACHE HIT (0.51 ms)
+INFO:     127.0.0.1:54048 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:57,260 [clef] CACHE HIT (0.32 ms)
+INFO:     127.0.0.1:54964 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55368 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:58,261 [clef] CACHE HIT (0.31 ms)
+INFO:     127.0.0.1:63603 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:42:59,263 [clef] CACHE HIT (0.45 ms)
+INFO:     127.0.0.1:64636 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50442 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:00,263 [clef] CACHE HIT (0.67 ms)
+INFO:     127.0.0.1:57620 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:01,266 [clef] CACHE HIT (0.96 ms)
+INFO:     127.0.0.1:63597 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62231 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:02,267 [clef] CACHE HIT (0.32 ms)
+INFO:     127.0.0.1:51981 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:03,268 [clef] CACHE HIT (0.35 ms)
+INFO:     127.0.0.1:61932 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:04,269 [clef] CACHE HIT (0.58 ms)
+INFO:     127.0.0.1:51462 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61570 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:05,271 [qwen] CACHE HIT (0.24 ms)
+INFO:     127.0.0.1:52118 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:06,272 [qwen] CACHE HIT (0.29 ms)
+INFO:     127.0.0.1:51066 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64232 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:07,273 [qwen] CACHE HIT (0.32 ms)
+INFO:     127.0.0.1:55969 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:08,274 [qwen] CACHE HIT (0.35 ms)
+INFO:     127.0.0.1:61485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49923 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:09,275 [qwen] CACHE HIT (0.35 ms)
+INFO:     127.0.0.1:57534 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:10,276 [qwen] CACHE HIT (0.94 ms)
+INFO:     127.0.0.1:64568 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:11,277 [qwen] CACHE HIT (0.30 ms)
+INFO:     127.0.0.1:55993 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64816 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:12,279 [qwen] CACHE HIT (1.14 ms)
+INFO:     127.0.0.1:53270 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:13,280 [qwen] CACHE HIT (0.48 ms)
+INFO:     127.0.0.1:62215 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61419 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:14,282 [qwen] CACHE HIT (0.82 ms)
+INFO:     127.0.0.1:60792 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:15,284 [qwen] CACHE HIT (0.37 ms)
+INFO:     127.0.0.1:59311 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54493 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:16,285 [qwen] CACHE HIT (0.78 ms)
+INFO:     127.0.0.1:58826 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:17,286 [qwen] CACHE HIT (0.59 ms)
+INFO:     127.0.0.1:51209 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:18,287 [qwen] CACHE HIT (0.83 ms)
+INFO:     127.0.0.1:52320 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59434 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:19,290 [qwen] CACHE HIT (0.96 ms)
+INFO:     127.0.0.1:54336 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:20,291 [qwen] CACHE HIT (0.73 ms)
+INFO:     127.0.0.1:50875 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52225 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:21,292 [qwen] CACHE HIT (0.34 ms)
+INFO:     127.0.0.1:61731 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:22,293 [qwen] CACHE HIT (0.84 ms)
+INFO:     127.0.0.1:65187 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49269 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:23,295 [qwen] CACHE HIT (0.36 ms)
+INFO:     127.0.0.1:49226 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:24,296 [qwen] CACHE HIT (0.87 ms)
+INFO:     127.0.0.1:55683 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64979 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:25,306 [frontier] LIVE REQUEST openrouter:anthropic/claude-opus-5.5 | before: total=51 openrouter=2 model_calls=2
+INFO:     127.0.0.1:50377 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51477 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50066 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50410 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51889 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50148 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52940 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50745 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51755 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55258 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52464 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60656 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60492 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63979 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50112 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49699 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64553 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54808 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62832 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64050 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64185 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50358 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60622 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54758 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:42,464 [frontier] live latency 17154 ms -> F'
+INFO:     127.0.0.1:64870 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:43,474 [frontier] LIVE REQUEST openrouter:anthropic/claude-opus-5.5 | before: total=52 openrouter=3 model_calls=3
+INFO:     127.0.0.1:56119 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51777 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55656 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50061 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59686 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59099 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51032 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59581 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51748 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64750 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:50,329 [frontier] live latency 6851 ms -> F
+INFO:     127.0.0.1:55917 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62747 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:51,336 [frontier] LIVE REQUEST openrouter:anthropic/claude-opus-5.5 | before: total=53 openrouter=4 model_calls=4
+INFO:     127.0.0.1:53883 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62533 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50852 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60828 - "GET /api/status HTTP/1.1" 200 OK
+2026-10-20 20:43:55,115 [frontier] live latency 3774 ms -> F'
+INFO:     127.0.0.1:56464 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64098 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63361 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62593 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53378 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64110 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53607 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62042 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60983 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61826 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60264 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56422 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55945 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59694 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62417 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59901 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58122 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62405 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57604 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64828 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51760 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53671 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62238 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52448 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60931 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58602 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57962 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54432 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51061 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53568 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55531 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64193 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52278 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62511 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65269 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60012 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59153 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60588 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64227 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58862 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61898 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53179 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63095 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63382 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65359 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54911 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51745 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55513 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62093 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50381 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64652 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54746 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58480 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53911 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51924 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50335 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62485 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49793 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62655 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49674 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55371 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54302 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53461 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57108 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61294 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56141 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62517 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59818 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59215 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65519 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59109 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63184 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58071 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63884 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64222 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65452 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52885 - "GET /api/status HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50773 - "GET /api/status HTTP/1.1" 200 OK
